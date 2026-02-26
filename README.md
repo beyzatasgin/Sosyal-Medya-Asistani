@@ -151,6 +151,7 @@ sosyal-medya-asistani
  ┗ 📁 screenshots/           # Ekran görüntüleri
     ┣  workflow_genel.png
     ┣  gmail.png
+    ┣  sheet.png   
     ┗  telegram_output.png
 ```
 
